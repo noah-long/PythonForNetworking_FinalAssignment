@@ -53,3 +53,6 @@ This Python script is designed to perform simple encryption and decryption of te
     </tr>
   </tbody>
 </table>
+
+<h2>References</h2>
+https://cryptography.io/en/latest/fernet/
